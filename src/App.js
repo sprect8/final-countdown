@@ -15,9 +15,9 @@ const Completionist = () => <span>
   <img src="https://ph-files.imgix.net/d224001c-e5b7-4e51-95f6-8d692887d14b?auto=format&auto=compress&codec=mozjpeg&cs=strip" alt="Party Parrots - Bring the joy of Party Parrots to to iMessage | Product Hunt" 
   style={{"width":"800px", "height": "600px"}} width="1250" height="1250" />
   </span>;
-const leaveEY = new Date('2021-03-12 17:30:00 GMT+8');
-const leaveSG = new Date('2021-03-15 17:30:00 GMT+8');
-const seeWife = new Date('2021-03-22 17:30:00 GMT+8');
+const leaveEY = new Date(1615541400000);
+const leaveSG = new Date(1615800600000);
+const seeWife = new Date(1616405400000);
 
 const render = (props) => {
   if (props.completed) {
