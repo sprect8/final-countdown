@@ -2,6 +2,14 @@
   text-align: center;
 }
 
+.number {
+  font-size: 32pt;
+}
+
+.words {
+  font-size: 18pt;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
